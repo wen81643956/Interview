@@ -36,3 +36,5 @@
 -   [ ] new 操作符
 -   [ ] null 和 undefined 区别
 -   [ ] 变量提升
+-   [ ] 自定义事件
+-   [ ] debounce throttle 的实现
