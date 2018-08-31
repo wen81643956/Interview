@@ -85,3 +85,4 @@
 -   [ ] refs 的几种方式及区别
 -   [ ] React fiber 架构
 -   [ ] React 与 Vue 的比较
+-   [ ] React.PureComponent
