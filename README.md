@@ -13,7 +13,7 @@
 -   [ ] Promise
 -   [ ] Generator
 -   [ ] Decorator
--   [ ] call, apply, bind
+-   [x] call, apply, bind
 -   [ ] event loop (microtask, macrotask)
 -   [ ] 模块机制 (CommonJs, AMD, es 模块, UMD)
 -   [ ] ajax, fetch
@@ -33,15 +33,15 @@
 -   [ ] 观察者模式, 迭代器模式
 -   [ ] 页面性能优化
 -   [ ] 内存泄漏
--   [ ] new 操作符
+-   [x] new 操作符
 -   [ ] null 和 undefined 区别
--   [ ] 变量提升
+-   [x] 变量提升
 -   [ ] 自定义事件
 -   [ ] debounce throttle 的实现
 -   [ ] BEM 规范
 -   [ ] 垃圾回收机制
 -   [ ] 创建对象的方式
--   [ ] 作用域 (执行上下文)
+-   [x] 作用域 (执行上下文)
 -   [ ] 判断数据类型
 -   [ ] new String('a') 和 'a' 的区别（包装类型）/ 包装对象
 -   [ ] 箭头函数
@@ -75,7 +75,7 @@
 -   [ ] immutable 思想
 -   [ ] immutableJs 结构共享
 -   [ ] React 的合成事件, 为什么 React 要做自己的事件系统
--   [ ] JSX 原理
+-   [x] JSX 原理
 -   [ ] setState 的几种使用方式及区别
 -   [ ] redux 有什么缺点
 -   [ ] 单向数据流思想, 为什么要用单向数据流
