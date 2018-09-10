@@ -88,3 +88,5 @@
 -   [ ] React.PureComponent
 -   [ ] PWA 了解一下
 -   [ ] web worker 了解一下
+-   [ ] 函数式编程和面向对象编程的区别
+-   [ ] RxJs 的 FRP 思想
