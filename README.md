@@ -2,38 +2,38 @@
 
 ## 知识点
 
--   [ ] this 问题
+-   [ ] [this 问题](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
 -   [ ] 闭包
 -   [x] 继承
--   [x] 原型链
--   [ ] 跨域通信
+-   [x] [原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+-   [ ] [跨域通信](https://juejin.im/post/5b91d3be5188255c95380b5e)
 -   [ ] MVVM
 -   [ ] reflow, repaint
--   [ ] 事件冒泡, 事件捕获
--   [ ] Promise
+-   [ ] [事件冒泡, 事件捕获, 事件委托](https://zhuanlan.zhihu.com/p/26536815)
+-   [ ] [Promise](https://juejin.im/post/5b2a422bf265da59810b677c)
 -   [ ] Generator
 -   [ ] Decorator
--   [x] call, apply, bind
+-   [x] [call, apply, bind](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
 -   [ ] event loop (microtask, macrotask)
 -   [ ] 模块机制 (CommonJs, AMD, es 模块, UMD)
 -   [ ] ajax, fetch
 -   [ ] 单页应用路由原理
--   [ ] webpack 打包优化
+-   [ ] [webpack 打包优化](https://juejin.im/post/5abbc2ca5188257ddb0fae9b)
 -   [ ] 深拷贝
 -   [ ] 数组去重
 -   [ ] 数组排序
--   [ ] 安全问题 (XSS, CSRF)
+-   [ ] [安全问题 (XSS, CSRF)](https://github.com/dwqs/blog/issues/68)
 -   [ ] url 到页面展现的过程
 -   [ ] http 状态码
 -   [ ] 浏览器缓存机制
--   [ ] BFC (块级格式化上下文)
+-   [ ] [BFC (块级格式化上下文)](https://juejin.im/post/59b73d5bf265da064618731d)
 -   [ ] 清除浮动
 -   [ ] 居中问题
 -   [ ] 函数柯里化 (高阶函数)
 -   [ ] 观察者模式, 迭代器模式
 -   [ ] 页面性能优化
 -   [ ] 内存泄漏
--   [x] new 操作符
+-   [x] [new 操作符](https://www.zhihu.com/question/36440948)
 -   [ ] null 和 undefined 区别
 -   [x] 变量提升
 -   [ ] 自定义事件
@@ -90,3 +90,4 @@
 -   [ ] web worker 了解一下
 -   [ ] 函数式编程和面向对象编程的区别
 -   [ ] RxJs 的 FRP 思想
+-   [ ] 前端模版引擎实现原理
