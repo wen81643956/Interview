@@ -3,14 +3,14 @@
 ## 知识点
 
 -   [x] [this 问题](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
--   [ ] 闭包
--   [ ] 继承
--   [ ] [原型链](https://github.com/mqyqingfeng/Blog/issues/2)
--   [ ] [跨域通信](https://juejin.im/post/5b91d3be5188255c95380b5e)
+-   [x] 闭包
+-   [x] 继承
+-   [x] [原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+-   [x] [跨域通信](https://juejin.im/post/5b91d3be5188255c95380b5e)
 -   [ ] MVVM
 -   [ ] reflow, repaint
--   [ ] [事件冒泡, 事件捕获, 事件委托](https://zhuanlan.zhihu.com/p/26536815)
--   [ ] [Promise](https://juejin.im/post/5b2a422bf265da59810b677c)
+-   [x] [事件冒泡, 事件捕获, 事件委托](https://zhuanlan.zhihu.com/p/26536815)
+-   [x] [Promise](https://juejin.im/post/5b2a422bf265da59810b677c)
 -   [ ] Generator
 -   [ ] Decorator
 -   [x] [call, apply, bind](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
@@ -23,28 +23,28 @@
 -   [ ] 数组去重
 -   [ ] 数组排序
 -   [ ] [安全问题 (XSS, CSRF)](https://github.com/dwqs/blog/issues/68)
--   [ ] url 到页面展现的过程
--   [ ] http 状态码
+-   [x] url 到页面展现的过程
+-   [x] http 状态码
 -   [ ] 浏览器缓存机制
--   [ ] [BFC (块级格式化上下文)](https://juejin.im/post/59b73d5bf265da064618731d)
--   [ ] 清除浮动
+-   [x] [BFC (块级格式化上下文)](https://juejin.im/post/59b73d5bf265da064618731d)
+-   [x] 清除浮动
 -   [ ] 居中问题
 -   [ ] 函数柯里化 (高阶函数)
 -   [ ] 观察者模式, 迭代器模式
 -   [ ] 页面性能优化
 -   [ ] 内存泄漏
 -   [ ] [new 操作符](https://www.zhihu.com/question/36440948)
--   [ ] null 和 undefined 区别
--   [ ] 变量提升
--   [ ] 自定义事件
+-   [x] null 和 undefined 区别
+-   [x] 变量提升
+-   [x] 自定义事件
 -   [ ] debounce throttle 的实现
 -   [ ] BEM 规范
 -   [ ] 垃圾回收机制
--   [ ] 创建对象的方式
--   [ ] 作用域 (执行上下文)
+-   [x] 创建对象的方式
+-   [x] 作用域 (执行上下文)
 -   [ ] 判断数据类型
 -   [ ] new String('a') 和 'a' 的区别（包装类型）/ 包装对象
--   [ ] 箭头函数
+-   [x] 箭头函数
 -   [ ] 堆栈
 -   [ ] redux 原理
 -   [ ] 写一个 redux 中间件
