@@ -4,8 +4,8 @@
 
 -   [ ] [this 问题](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
 -   [ ] 闭包
--   [x] 继承
--   [x] [原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+-   [ ] 继承
+-   [ ] [原型链](https://github.com/mqyqingfeng/Blog/issues/2)
 -   [ ] [跨域通信](https://juejin.im/post/5b91d3be5188255c95380b5e)
 -   [ ] MVVM
 -   [ ] reflow, repaint
@@ -13,7 +13,7 @@
 -   [ ] [Promise](https://juejin.im/post/5b2a422bf265da59810b677c)
 -   [ ] Generator
 -   [ ] Decorator
--   [x] [call, apply, bind](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
+-   [ ] [call, apply, bind](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
 -   [ ] event loop (microtask, macrotask)
 -   [ ] 模块机制 (CommonJs, AMD, es 模块, UMD)
 -   [ ] ajax, fetch
