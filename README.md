@@ -2,7 +2,7 @@
 
 ## 知识点
 
--   [ ] [this 问题](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
+-   [x] [this 问题](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
 -   [ ] 闭包
 -   [ ] 继承
 -   [ ] [原型链](https://github.com/mqyqingfeng/Blog/issues/2)
@@ -13,7 +13,7 @@
 -   [ ] [Promise](https://juejin.im/post/5b2a422bf265da59810b677c)
 -   [ ] Generator
 -   [ ] Decorator
--   [ ] [call, apply, bind](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
+-   [x] [call, apply, bind](https://juejin.im/post/59bfe84351882531b730bac2#heading-12)
 -   [ ] event loop (microtask, macrotask)
 -   [ ] 模块机制 (CommonJs, AMD, es 模块, UMD)
 -   [ ] ajax, fetch
@@ -33,16 +33,16 @@
 -   [ ] 观察者模式, 迭代器模式
 -   [ ] 页面性能优化
 -   [ ] 内存泄漏
--   [x] [new 操作符](https://www.zhihu.com/question/36440948)
+-   [ ] [new 操作符](https://www.zhihu.com/question/36440948)
 -   [ ] null 和 undefined 区别
--   [x] 变量提升
+-   [ ] 变量提升
 -   [ ] 自定义事件
 -   [ ] debounce throttle 的实现
--   [x] BEM 规范
+-   [ ] BEM 规范
 -   [ ] 垃圾回收机制
--   [x] 创建对象的方式
--   [x] 作用域 (执行上下文)
--   [x] 判断数据类型
+-   [ ] 创建对象的方式
+-   [ ] 作用域 (执行上下文)
+-   [ ] 判断数据类型
 -   [ ] new String('a') 和 'a' 的区别（包装类型）/ 包装对象
 -   [ ] 箭头函数
 -   [ ] 堆栈
@@ -75,7 +75,7 @@
 -   [ ] immutable 思想
 -   [ ] immutableJs 结构共享
 -   [ ] React 的合成事件, 为什么 React 要做自己的事件系统
--   [x] JSX 原理
+-   [ ] JSX 原理
 -   [ ] setState 的几种使用方式及区别
 -   [ ] redux 有什么缺点
 -   [ ] 单向数据流思想, 为什么要用单向数据流
